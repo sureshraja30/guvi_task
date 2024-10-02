@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "this task session"
+echo 'Uncommitted changes in file1'
